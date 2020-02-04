@@ -1,4 +1,4 @@
-# Bambora's Ruby SDK
+# Bambora's Ruby SDK (Legacy)
 
 Integration with Bambora’s payments gateway is a simple, flexible solution.
 
